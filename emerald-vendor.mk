@@ -39,8 +39,10 @@ PRODUCT_COPY_FILES += \
     vendor/teracube/emerald/proprietary/lib64/libmtk_vt_wrapper.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libmtk_vt_wrapper.so \
     vendor/teracube/emerald/proprietary/lib64/libmtkavenhancements.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libmtkavenhancements.so \
     vendor/teracube/emerald/proprietary/lib64/libmtkperf_client.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libmtkperf_client.so \
+    vendor/teracube/emerald/proprietary/lib64/libsink.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libsink.so \
     vendor/teracube/emerald/proprietary/lib64/libvcodec_cap.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libvcodec_cap.so \
     vendor/teracube/emerald/proprietary/lib64/libvcodec_capenc.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libvcodec_capenc.so \
+    vendor/teracube/emerald/proprietary/lib64/libvt_avsync.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libvt_avsync.so \
     vendor/teracube/emerald/proprietary/system_ext/bin/aee:$(TARGET_COPY_OUT_SYSTEM_EXT)/bin/aee \
     vendor/teracube/emerald/proprietary/system_ext/bin/aee_aed:$(TARGET_COPY_OUT_SYSTEM_EXT)/bin/aee_aed \
     vendor/teracube/emerald/proprietary/system_ext/bin/aee_aed64:$(TARGET_COPY_OUT_SYSTEM_EXT)/bin/aee_aed64 \
