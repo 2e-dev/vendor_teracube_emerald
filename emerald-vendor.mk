@@ -1328,5 +1328,6 @@ PRODUCT_PACKAGES += \
     com.st.android.nfc_extensions \
     android.hardware.biometrics.fingerprint@2.1-service \
     android.hardware.boot@1.1 \
+    android.hardware.wifi.hostapd \
     manifest_android.hardware.drm@1.3-service.widevine \
     vibrator-mtk-default
